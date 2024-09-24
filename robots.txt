@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://duqur.github.io/gfL/sitemap.gfL.gz
